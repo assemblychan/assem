@@ -9,6 +9,8 @@
 
 We will open Full Source Code when 30% of ICO is filled
 
+But you can check the essential part of our System
+
 ```sh
 uint hodl_Profit = thisMonthProfit*9/10;
 ownerBalance += (thisMonthProfit - hodl_Profit);
