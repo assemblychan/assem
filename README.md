@@ -9,7 +9,10 @@
 
 Sorry for that we can't open full-sourcecode now,
 We will open after 30% of ICO is filled
-
+```sh
+uint hodl_Profit = thisMonthProfit*9/10;
+ownerBalance += (thisMonthProfit - hodl_Profit);
+```
 ## Hodler function
 
 ```sh
