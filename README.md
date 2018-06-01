@@ -16,7 +16,7 @@ ownerBalance += (thisMonthProfit - hodl_Profit);
 ## Hodler function
 
 ```sh
-      function submit_hodler() public{
+    function submit_hodler() public{
         bool already = false;
         for(uint i=0;i<hodlerLength;i++){
             if(hodler[i] == msg.sender){
@@ -31,10 +31,6 @@ ownerBalance += (thisMonthProfit - hodl_Profit);
                 hodlerLength++;
             }
         }
-    }
-    
-    function add_hodler(address hodl) public onlyBy (owner){
-        hodler.push(hodl);
     }
     
     function snapShot() public onlyBy (owner){
