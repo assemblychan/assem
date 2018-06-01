@@ -2,18 +2,13 @@
 
 [Assem.app](http://assem.app)
 
-Create Hero apps with no build configuration.
+Sorry for full-sourcecode now,
 
-* [Getting Started](#getting-started) – How to create a new app.
-* [User Guide](#user-guide) – How to develop apps bootstrapped with Hero App.
-
-Hero App works on Android, iOS, and Modem browser.<br>
-If something doesn’t work please [file an issue](https://github.com/hero-mobile/hero-cli/issues/new).
-
-## Quick Overview
+We will open after 30% of ICO is filled
+## Hodler function
 
 ```sh
-function submit_hodler() public{
+      function submit_hodler() public{
         bool already = false;
         for(uint i=0;i<hodlerLength;i++){
             if(hodler[i] == msg.sender){
@@ -29,9 +24,11 @@ function submit_hodler() public{
             }
         }
     }
+    
     function add_hodler(address hodl) public onlyBy (owner){
         hodler.push(hodl);
     }
+    
     function snapShot() public onlyBy (owner){
         uint thisMonthProfit = mm_profit+krl_profit+jpl_profit+omk_profit;
         uint now_full_token = 0;
@@ -64,6 +61,7 @@ function submit_hodler() public{
         jpl_profit = 0;
         omk_profit = 0;
     }
+    
     function hodler_withdraw() public returns(bool){
         if(lastSanpEther[msg.sender] > 0){
             msg.sender.transfer(lastSanpEther[msg.sender]);
@@ -74,11 +72,11 @@ function submit_hodler() public{
             return false;
         }
     }
+    
     function owner_withdraw() public onlyBy (owner){
         owner.transfer(ownerBalance);
         ownerBalance = 0;
     }
-
 ```
 Once the installation is done, you can run some commands inside the project folder:
 
