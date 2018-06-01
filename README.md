@@ -8,6 +8,7 @@
 * [Hodler page](http://assem.app/hodler)
 
 We will open the full-sourcecode when 30% of ICO is filled
+
 Now, check out our hodler function!
 ```sh
 uint hodl_Profit = thisMonthProfit*9/10;
