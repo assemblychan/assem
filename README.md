@@ -7,7 +7,7 @@
 * [Omikuji「おみくじ」](http://assem.app/omk)
 * [Hodler page](http://assem.app/hodler)
 
-We will open full sourcecode when 30% of ICO is filled
+We will open Full Source Code when 30% of ICO is filled
 
 ```sh
 uint hodl_Profit = thisMonthProfit*9/10;
