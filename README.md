@@ -1,6 +1,11 @@
 # Assem - hodler function preview
 
-[Assem.app](http://assem.app)
+* [Assem.app](http://assem.app)
+* [USA - MEGA MIliON](http://assem.app/mm)
+* [KOREA - 나눔로또 6/45](http://assem.app/krl)
+* [JAPAN - ロトセブン](http://assem.app/jpl)
+* [Omikuji「おみくじ」](http://assem.app/omk)
+* [Hodler page](http://assem.app/hodler)
 
 Sorry for that we can't open full-sourcecode now,
 We will open after 30% of ICO is filled
@@ -79,12 +84,5 @@ We will open after 30% of ICO is filled
     }
 ```
 
-## Links
 
-* [Assem.app](http://assem.app)
-      * [USA - MEGA MIliON](http://assem.app/mm)
-      * [KOREA - 나눔로또 6/45](http://assem.app/krl)
-      * [JAPAN - ロトセブン](http://assem.app/jpl)
-      * [Omikuji「おみくじ」](http://assem.app/omk)
-* [Hodler page](http://assem.app/hodler)
 
