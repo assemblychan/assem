@@ -2,9 +2,9 @@
 
 [Assem.app](http://assem.app)
 
-Sorry for full-sourcecode now,
-
+Sorry for that we can't open full-sourcecode now,
 We will open after 30% of ICO is filled
+
 ## Hodler function
 
 ```sh
@@ -79,21 +79,12 @@ We will open after 30% of ICO is filled
     }
 ```
 
-## User Guide
+## Links
 
-* [Generate HTML](#generate-html)
-* [Adding Custom Environment Variables](#adding-custom-environment-variables)
-  * [Referencing Environment Variables in the JavaScript](#referencing-environment-variables-in-the-javascript)
-  * [Referencing Environment Variables in the HTML](#referencing-environment-variables-in-the-html)
-  * [Adding Temporary Environment Variables In Your Shell](#adding-temporary-environment-variables-in-your-shell)
-  * [Adding Development Environment Variables via `.hero-cli.json`](#adding-development-environment-variables-via-hero-clijson)
-* [Proxying API Requests in Development](#proxying-api-requests-in-development)
-* [Build Native App](#build-native-app)
-  * [Android](#android)
-  * [iOS](#ios)
-* [Build Scripts](#build-scripts)
-  * [`hero start`](#hero-start)
-  * [`hero build`](#hero-build)
-  * [`hero serve`](#hero-serve)
-  * [`hero init`](#hero-init)
-  * [`hero platform build android`](`#hero-platform-build-android)
+* [Assem.app](http://assem.app)
+      * [USA - MEGA MIliON](http://assem.app/mm)
+      * [KOREA - 나눔로또 6/45](http://assem.app/krl)
+      * [JAPAN - ロトセブン](http://assem.app/jpl)
+      * [Omikuji「おみくじ」](http://assem.app/omk)
+* [Hodler page](http://assem.app/hodler)
+
