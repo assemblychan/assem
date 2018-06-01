@@ -1,4 +1,4 @@
-# hero-cli
+# Assem - hodler function preview
 
 [中文文档](https://github.com/hero-mobile/hero-cli/blob/master/README.zh.md)
 
