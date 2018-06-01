@@ -1,6 +1,6 @@
 # Assem - hodler function preview
 
-[中文文档](https://github.com/hero-mobile/hero-cli/blob/master/README.zh.md)
+[Assem.app](http://assem.app)
 
 Create Hero apps with no build configuration.
 
